@@ -1,4 +1,4 @@
 # Demo
 
-- Learning Github
+- Learnin Github with Mayk Brito
 
